@@ -23,7 +23,7 @@
 ![https://www.instagram.com/mhamwaluh27/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://whatsapp.com/dl/](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)  ![viraham27@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ##### ⏳ My Github Stats ⏳
-![Hmaw GitHub stats](https://github-readme-stats.vercel.app/api?username=0xMHaw027&show_icons=true&theme=transparent)
+![Hmaw GitHub stats](https://github-readme-stats.vercel.app/api?username=0xMHaw027&show_icons=true&theme=great-gatsby)
 
 ##### 🕹️ Play Game 🕹️
 <picture>
