@@ -24,7 +24,7 @@
 
 ######
 
-## Hi there 👋
+# Hi there 👋
 
 Saya adalah **Frontend Developer** yang sedang membangun kompetensi sebagai **AI Engineer** multidisiplin.
 
